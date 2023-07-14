@@ -1,4 +1,5 @@
-### Hi there 👋
+### Namaste 🙏🏼
+
 <a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="400" alt="Binayak Pradhan's Dev Card"/></a>
 <!--
 **BinayakPradhan/BinayakPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
