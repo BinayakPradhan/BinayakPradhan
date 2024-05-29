@@ -1,4 +1,4 @@
-### 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏🏼;I+am+Binayak+Pradhan...;A+Computer+Engineer+from+Nepal.&center=true&size=23">
@@ -6,11 +6,10 @@
 </h1>
 
 
-###
 
 <img align="right" height="175" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNwNWl6OTVyMXFqaDI2cTl1dHJlN2t0dnpnYzA0YzZndnkwN2wzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.instagram.com/binayakprdhn/">
@@ -51,7 +49,7 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats:
 
@@ -60,11 +58,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false) 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
@@ -73,9 +70,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)](https://visitcount.itsvg.in) 
 
 
-###
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <h3>Statistics</h3>
+    <a href="https://github.com/BinayakPradhan">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinayakPradhan&theme=2077" height="180em" style="margin:10px;" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
+    </a>
+</div>
 
