@@ -1,5 +1,10 @@
 ### 
-<h2 align="left">Namaste 🙏🏼! My name is Binayak and I'm a Computer Engineer, from Nepal.</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏🏼;I+am+Binayak+Pradhan...;A+Computer+Engineer+from+Nepal.&center=true&size=23">
+  </a>
+</h1>
+
 
 ###
 
