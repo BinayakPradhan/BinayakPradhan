@@ -68,7 +68,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="400" align="right" alt="Binayak Pradhan's Dev Card"/></a>
+<a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="300" align="right" alt="Binayak Pradhan's Dev Card"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
