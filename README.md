@@ -51,20 +51,28 @@
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
+<hr>
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+<a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="400" align="right" alt="Binayak Pradhan's Dev Card"/></a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)](https://visitcount.itsvg.in) 
+
 
 ###
-<a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="400" alt="Binayak Pradhan's Dev Card"/></a>
-<!--
-**BinayakPradhan/BinayakPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
