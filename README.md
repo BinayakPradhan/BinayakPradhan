@@ -74,7 +74,7 @@
 [![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)](https://visitcount.itsvg.in) 
 
 
-
+<!--
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <h3>Statistics</h3>
@@ -85,5 +85,5 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
     </a>
-</div>
+</div> -->
 
