@@ -11,7 +11,7 @@
 
 
 
-<div align="left">
+<div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -34,7 +34,7 @@
 </div>
 
 
-<div align="left">
+<div align="left" style="margin-top: 5px;">
   <a href="https://www.instagram.com/binayakprdhn/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -53,14 +53,20 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br />
-![](https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false) 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 52%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 44%;">
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 20px;">
+
 
 ### ✍️ Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
