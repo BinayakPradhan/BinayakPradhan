@@ -10,8 +10,7 @@
 <img align="right" height="175" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNwNWl6OTVyMXFqaDI2cTl1dHJlN2t0dnpnYzA0YzZndnkwN2wzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
 
 
-
-<div align="left" style="margin-top: 10px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -34,7 +33,7 @@
 </div>
 
 
-<div align="left" style="margin-top: 5px;">
+<div align="left">
   <a href="https://www.instagram.com/binayakprdhn/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
