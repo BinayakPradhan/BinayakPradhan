@@ -69,9 +69,11 @@
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 52%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 44%;">
+<div style="display: flex; justify-content: space-between">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 50%;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;">
 </div>
 
 <br />
@@ -88,7 +90,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)](https://visitcount.itsvg.in) 
+![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)
 
 
 <!--
