@@ -88,9 +88,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=binayakpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="binayakpradhan" /> </p>
 
 
-![](https://visitcount.itsvg.in/api?id=BinayakPradhan&icon=0&color=6)
+
 
 
 <!--
@@ -104,5 +105,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
     </a>
-</div> -->
+</div> 
+-->
 
