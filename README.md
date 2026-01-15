@@ -41,34 +41,15 @@
 <div style="display: flex; justify-content: space-between">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinayakPradhan&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 50%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false" alt="GitHub Stats" style="width: 48%;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 10px;">
 </div>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%; margin-top: 20px;">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 20px;">
+<div style="display:flex; justify-content: space-between">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 70%; margin-top: 40px;">
+  <a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="250" align="right" alt="Binayak Pradhan's Dev Card"/></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 10px;">
+</div>
 
-<a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="300" align="right" alt="Binayak Pradhan's Dev Card"/></a>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BinayakPradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binayakpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="binayakpradhan" /> </p>
-
-
-
-
-
-<!--
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <h3>Statistics</h3>
-    <a href="https://github.com/BinayakPradhan">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinayakPradhan&theme=2077" height="180em" style="margin:10px;" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinayakPradhan&theme=tokyonight" height="180em" style="margin:10px;" />
-    </a>
-</div> 
--->
 
