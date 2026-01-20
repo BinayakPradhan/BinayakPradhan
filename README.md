@@ -56,7 +56,7 @@
 <br />
 
 <div style="display:flex; justify-content: space-between">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinayakPradhan&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 65%; margin-top: 40px;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BinayakPradhan&theme=tokyonight" alt="GitHub Streak" style="width: 65%; margin-top: 40px;" /></a>
   <a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="250" align="right" alt="Binayak Pradhan's Dev Card"/></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 10px;">
 </div>
