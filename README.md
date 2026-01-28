@@ -47,8 +47,10 @@
 
 ### 📊 GitHub Stats:
 
+
 <div style="display: flex; justify-content: space-between">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BinayakPradhan&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 50%;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinayakPradhan&theme=tokyonight&hide_border=false&layout=pie" alt="Top Languages" style="width: 50%;"> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BinayakPradhan&theme=tokyonight&hide_border=false&include_all_commits=false" alt="GitHub Stats" style="width: 48%;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 10px;">
 </div>
