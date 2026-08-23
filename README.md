@@ -16,7 +16,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,python,figma,git,mysql" height="80" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,nodejs,express,mongodb,nextjs,numpy,pandas,matplotlib" height="80" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=webflow,wordpress,c,django,docker,ollama,postman,tailwindcss" height="80" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tanstack,vuejs,astro" height="80" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tanstack,vuejs,astro,bash,tmux,claude,pm2" height="80" />
 </div>
 
 <br/>
@@ -58,7 +58,7 @@
 <br />
 
 <div style="display:flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinayakPradhan&show_icons=true&theme=tokyonight" alt="GitHub Streak" style="width: 65%; margin-top: 60px;" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BinayakPradhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="left" style="width: 70%;">
   <a href="https://app.daily.dev/binayakpradhan"><img src="https://api.daily.dev/devcards/26c7a47ff2ef49d0a0819c256e8f5c59.png?r=32j" width="250" align="right" alt="Binayak Pradhan's Dev Card"/></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" style="width: 100%; margin-top: 10px;">
 </div>
